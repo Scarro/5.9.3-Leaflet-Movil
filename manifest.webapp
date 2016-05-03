@@ -1,0 +1,12 @@
+{
+
+  "version": "0.1",
+  "name": "Open Web App",
+  "description": "Your new awesome Open Web App",
+  "launch_path": "/index.html",
+  "developer": {
+    "name": "Sergio",
+    "url": "https://github.com/Scarro/5.9.3-Leaflet-Movil",
+	}
+  
+}
